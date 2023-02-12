@@ -36,4 +36,5 @@ The movie ratings data used by this project is a sample of the MovieLens dataset
 Here we had used tbmd data from kaggle: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
+![image](https://user-images.githubusercontent.com/102150068/218307659-26cfd8af-d7fc-4ed3-99e1-d158cb5f9d0e.png)
 
