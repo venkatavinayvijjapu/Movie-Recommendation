@@ -35,6 +35,7 @@ You can run the script from the command line by specifying the path to the input
 The movie ratings data used by this project is a sample of the MovieLens dataset. The original dataset contains over 27 million ratings for over 58,000 movies, but for the purposes of this project, we have limited the data to a smaller sample.
 Here we had used tbmd data from kaggle: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+![image](https://user-images.githubusercontent.com/102150068/218307713-e5fb4c8a-ed00-4f1b-8774-93aa718714bf.png)
 
 ![image](https://user-images.githubusercontent.com/102150068/218307659-26cfd8af-d7fc-4ed3-99e1-d158cb5f9d0e.png)
 
